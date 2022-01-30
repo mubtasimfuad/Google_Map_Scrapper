@@ -1,0 +1,904 @@
+﻿,name,rating,total_rating_given,price_level,address
+0,Shakib's 75 Restaurant,4.3,342,not specified,"Ruapyan ZR Plaza, Level 9, Satmasjid Road, Road 9/A, House 46 Dhaka"
+1,Family Kitchen,5.0,11,not specified,"29/1 Monowara Cotage, E Nayatola Rd"
+2,Izumi Japanese Kitchen,4.5,"1,430",$$$$,"House no: 88, 24C Rd No 113/A"
+3,A La Greek - Mediterranean Cuisine,4.3,186,not specified,"Rangs Fortune Square, Level 6A Plot 32, Road, 02 Road No. 2"
+4,HEXA Dine - Restaurant & Café,4.4,340,not specified,"House: 34 (1st Floor), Green Regency, Road No: 10, Block- D"
+5,BAO,4.2,902,$$,"House 1/A 1st floor, Unit-2, রোড নং # ২৩"
+6,Bistro-E,4.5,"1,290",$$$,"Bay's Edgewater 1st Floor NE (N, 12 Gulshan North Ave"
+7,Thai Chi Restaurant & Cafe,4.1,"3,893",$$,"Bijay Sarani Rangs Bhaban, Level 7, 117/A, Puraton Biman Bondor Sarak,Dhaka 1216"
+8,Seasonal Tastes,4.5,299,$$$$,"The Westin, Main Gulshan Ave"
+9,Cilantro,4.1,"1,521",$$,49 Satmasjid Road
+10,Jatra Biroti Restaurant,4.2,"2,281",$$$,60 Kemal Ataturk Ave
+11,Saltz Fine Seafood,4.1,418,$$$,"House 23, Rd 99"
+12,Bella Italia,4.3,"1,532",$$,"Rangs FC Enclave , 2nd floor, Road 32 Plot 6/A, Gulshan Ave"
+13,Lucknow Dhaka,4.2,"1,437",$$$,"E, 60 Kemal Ataturk Avenue"
+14,Paturi,4.2,680,$$,"House No, 03 Rd No 10B"
+15,Star Kebab & Restaurant,4.2,"17,022",$$,"House-15 Rd no. 17, Block- C"
+16,Tarka,4.0,"1,791",$$,"Level 8, House 1/H (ANZ Huq Eleven Square, রোড ১১"
+17,Aharika Restaurant,4.0,731,$$,223 Bir Uttam Mir Shawkat Sarak
+18,The Artichoke,4.4,228,not specified,"Arma Majeda Malik Tower , Holding No# 215, Bir Uttam Rafiqul Islam Ave"
+19,Soi 71,4.2,985,$$,"Level 1 Concord Baksh Tower, 11/A Kemal Ataturk Ave"
+20,The Artichoke,4.4,228,not specified,"Arma Majeda Malik Tower , Holding No# 215, Bir Uttam Rafiqul Islam Ave"
+21,Soi 71,4.2,985,$$,"Level 1 Concord Baksh Tower, 11/A Kemal Ataturk Ave"
+22,Spicy Ramna Restaurant,4.2,"2,208",$$,"Imperial Amin Ahmed Center House # 54 Road # 10/A, Satmasjid Road"
+23,EL PATRON BD,4.3,223,not specified,Plot 6 Rd No. 19/A
+24,Cozy Sizzler Restaurant,4.2,283,not specified,"Plot# CEN 4G, Road# 104, 1212. Dhaka, Bangladesh 1212"
+25,Raffinato Ristorante Italiano,4.2,291,not specified,H 9 Rd 36
+26,এবাকাস দি ক্যাফে এন্ড রেষ্টুরেন্ট,3.9,"2,154",$$,Star Center Plot -2A Block SE (C) Road 138 Ground & 1st Floor
+27,Paprika Restaurant,4.1,785,$$,"House No 55, Road No 4A, Saatmasjid Road, Dhanmondi"
+28,Thai Emerald,4.3,"1,883",$$$,"House 24 গুলশান 1, 4/B রোড নং ২"
+29,Royal Cuisine Restaurant,3.8,"2,505",$$,"House#32/D/E, NatoreTower, (14thFloor, Road#3 Sector#3"
+30,Prego,4.0,6,not specified,"The Westin, Main Gulshan Ave"
+31,Green Chilli Restaurant,4.1,116,not specified,"A, 70 Panthapath"
+32,Sylhet hotel and restaurant,3.8,5,not specified,QC85+RC3
+33,Star Hotel and Kabab,4.1,"8,876",$,"66, 67 S J Jahanara Imam Sharani"
+34,Crème de la Crème Coffee,4.3,"1,058",$$$,"House: 33, Road: 46"
+35,Bukhara Restaurant,4.2,713,not specified,"17th Floor, Iqbal Center, 42 Kemal Ataturk Ave"
+36,Dhaka Steakhouse,4.5,67,not specified,"Block E, House # 67/C, Rd No. 11"
+37,Soi 7,4.1,"1,877",$$,"House#28, 1205 Rd 7"
+38,Aaheli Kabab,4.1,430,$$,"Ni Tower, Block-E, Road-10, Plot-011213, Enamul Hoq Chowdhury Road"
+39,Rustic Eatery Banani,4.4,131,$$,"House 2 Road 8, block D"
+40,Tarka Express,3.8,14,$$$,Chef's Table
+41,Adda Restaurant,4.0,"1,943",$$,"House#8,Road#4"
+42,"Spaghetti Jazz, Dhaka",4.2,781,$$$,"Rob Bhaban. Plot 3 ( 4th floor) , Gulshan circle II"
+43,Kolkata Kacchi Ghor,4.2,"4,317",$$,14 Abdul Hasnat Rd
+44,Khushboo Restaurant,4.1,"1,002",$$,"House no 60/B, Road No 131, 2nd Floor, Gulshan-1"
+45,El Toro Mexican Restaurant,4.1,910,not specified,H # 9/A R # 36
+46,Blue Hill Thai & Chinese Restaurant,4.2,56,not specified,110 Haji Osman Gani Rd
+47,"Aqua Deck , InterContinental Dhaka",4.5,24,not specified,1 Minto Rd
+48,Absolute Thai,4.0,700,$$$,"House 52, 1st Floor, Rd No 12A"
+49,Istanbul Restaurant Dhaka,4.0,"1,534",$$,"House-10, Road-53, Gulshan Circle-2, Top of Weavers Level-6 Dhaka"
+50,"Koreana Restaurant, Dhaka.",4.3,"2,010",$$,"House No, 22 Rd 123"
+51,Biye Bari Restaurant,3.8,"1,643",$$,"67, GH Heights (7th Floor, Satmasjid Road"
+52,Grand Nawab,4.0,"2,957",$$,Opens at 11:00 AM
+53,Hotel Al Razzak Restaurant,3.9,"7,525",$$,"29/1 North South Road, Below IFSC Bank"
+54,KHAZANA,4.3,243,$$$,House#8 Rd 53
+55,Handi,4.1,"3,904",$$,"9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road"
+56,"Bellavista, Dhaka.",4.1,224,not specified,"Polwel Super Market, 69/1, Naya Paltan"
+57,Flaming Grill,4.1,20,not specified,"House# 175th, Gulshan Avenue, Gulshan-2, Opposite of Australian High Commision and above Butler’s Cafe Dhaka"
+58,Bhoj Restaurant,4.2,"1,962",$$,28/A Segun Bagicha Rd
+59,Bunka,4.1,332,$$$,"13th Floor, Road 96, House 19, Gulshan 2"
+60,Villa Azzur,4.6,30,not specified,"House: 61, Road: 15, Block: D"
+61,Sung Garden Restaurant,4.1,"1,165",not specified,"Akram Tower,14th floor 15/5, Shahid Syed Nazrul Islam Sharani, 5 Bijoy Nagar Road"
+62,Olea,4.2,67,$$,Le Méridien Dhaka 79/A Commercial Area Dhaka
+63,SEAGULL RESTAURANT.,4.1,638,$$,116 Culvert Road
+64,Dhaka foods & Restaurant,3.8,228,$$,"Shapla Building, Near, south"
+65,Sunami Restaurant,3.8,"1,504",$$,25/1
+66,Chows,4.2,821,$$$$,6 Rd No. 19/A
+67,Lake Terrace,4.0,"2,869",$$$,"House # 25/E, Lake Dr Rd"
+68,Fakhruddin Restaurant,3.9,"2,416",$$,"37, South Gulshan, Circle-1"
+69,"Elements Restaurant, InterContinental Dhaka",4.6,463,not specified,1 Minto Rd
+70,Basilico,4.1,"1,180",$$,399/B Shahid Baki Rd
+71,The Atrium Restaurant,4.0,"1,859",$$$,"50 & 52, Pragati Avenue, J Block, Baridhara"
+72,Garlic 'n Ginger,4.3,"2,221",$$,"Shop-1C-037, 1st Floor, KA-244, Jamuna Future Park Progoti Shoroni, Kuril - NSU Rd"
+73,Adda,4.4,45,not specified,6/8 Syed Road
+74,Flambe′ Restaurant,4.2,886,$$,"Building # 06, Road # 50 Block-NW(K Dhaka"
+75,Cielo Rooftop,4.2,"1,107",$$$,"Borak, Unique Heights, 117 Kazi Nazrul Islam Ave"
+76,Santoor Restaurant,4.1,"1,645",$$,"House no. 2, Road No 32, Mirpur Rd"
+77,Rooftop Restaurant,3.8,86,$$,Not Provided
+78,Dhaka Food,4.4,35,$$$$,"112, Paglar Pol, West Nakhalpara"
+79,Zayqa,4.5,35,$$$,"Block A, House 6 Rd No.17A"
+80,The New Gulshan Plaza Restaurant,4.2,"2,806",not specified,Not Provided
+81,Breeze Restaurant,4.0,73,not specified,"House# 1/C, 1/D, Road# 16"
+82,Midori Japanese Restaurant,4.0,29,$$$$,"Baridhara Diplomatic Area, Block- K, Road- 6, House- 14"
+83,Tongue and Tummy Restaurant,3.9,180,not specified,Q92R+F87
+84,ICHI,4.0,273,$$$,"House No 32, Level- 2, Blok- G, Rd No. 11"
+85,Farmhouse Burger,4.4,"1,507",$$$$,23 Gulshan Ave
+86,Golden Chimney Restaurant,4.0,882,$$,"Sonartori Tower, 12, 1st & 2nd Floor, Bir Uttam CR Dutta Rd"
+87,Pavilion Restaurant & Cafe,3.8,365,$$,17 Sonargaon Janapath
+88,"Madchef Banani, Dhaka.",4.3,"2,972",$$,"5th Floor, Plot 47, Block H Rd No. 11"
+89,Sear,5.0,1,$$,"Renaissance Dhaka Gulshan Hotel, 78 Gulshan Ave"
+90,Laughing Buddha,4.5,379,$$$$,"Rangs Arcade, 4th floor, 153/A Gulshan North Ave"
+91,Bistro 16,4.7,6,$$$,"Road 16, House 54/A A Block, Banani Dhaka"
+92,The Forest Lounge (Dhanmondi),3.9,183,not specified,"Imperial Amin Centre (roof top - lift12), House #54, Road, 10/A Satmasjid Road"
+93,Zafran Restaurant,4.1,"1,573",$$,11 Rd No 10
+94,"Pinewood Cafe+Kitchen, Dhanmondi-12",4.3,"3,250",$$,"House no: 19, Rd No 12"
+95,উজানভাটি রেস্টুরেন্ট এন্ড কাবাব ঘর,3.7,122,$,Bijoy Sarani Begum Rokeya Sarani Link Road
+96,Latitude 23,3.0,3,not specified,Le Méridien Dhaka 79/A Commercial Area Dhaka
+97,Hello Dhaka,4.1,58,not specified,"60/D, Road:131,Gulshan-1,Dhaka 1212 dhaka"
+98,Panash,4.3,3,$$,"Four Points by Sheraton Dhaka, Gulshan 6/A North Avenue Commercial Area"
+99,Khushbu Hotel & Restaurant,3.7,29,$$,কামাল আতাতুর্ক সরণী
+100,Shuruchi Restaurant,4.5,49,$$,Fourth Floor Brac Inn
+101,Genial Buffet,3.6,592,$$,"Rangs KB Square, 9/A H.No 736 Level 8, 15 Satmasjid Road"
+102,The Premium Lounge,3.8,"1,913",$$,R998+63Q
+103,Royal Orchid Restaurant,3.7,546,$$,"B3377, Khilgaon Taltola"
+104,Xian Restaurant,4.0,"1,137",$$,212 New Elephant Rd
+105,Downtown Dhaka,4.4,54,not specified,House-11 Rd No 68
+106,Black Birch Kitchen & Lounge,4.1,18,not specified,"Chandiwala Mansion,House 32 (Level 2, Block G Rd No. 11"
+107,Nobabi Voj Restaurants,4.1,36,not specified,"74, Musa Menshion wireless gate, Mohakhali (C/A), Dhaka"
+108,Weston Restaurant,4.2,609,$$,"1000, 1/1 Rupayan Taj, Box, Culvert Road"
+109,"Cheong Shing Restaurant, Dhaka.",4.2,401,$$$,Rd No. 19/A
+110,Absolute BBQ BD,4.2,"1,990",$$$,"Ahmed and Kazi tower, Level 7, Road 2, 35 Dhanmondi R/A"
+111,Thirty3 Restaurant,3.9,"1,203",$$$,"3rd Floor, 3 New Baily Rd"
+112,Dhaka Restaurant,0,0,$$,RC66+4XQ
+113,The Manhattan FISH MARKET Bangladesh,4.3,"3,749",$$$,"Awal center, 34 Kemal Ataturk Ave"
+114,Punjab Kitchen,4.1,32,$$,"United City, Madani Ave"
+115,Nawabi Voj,4.0,"1,791",$$,50 Lalbagh Rd
+116,Barcode Cafe,4.3,"3,788",$$,House 55/B Rd No # 21
+117,Kaca Lanka Restaurant,3.4,9,not specified,"Faysal tower, 23 no Shamoly, Dhaka, 1207"
+118,Xindian Restaurant,4.0,"3,616",$$,"House No.55, 55/A (New), 273 (Old) Road No.: 16 (New), 27(Old, 55/1 Rd No. 27"
+119,Dhaka Metro Restaurant,3.8,376,not specified,"1st floor, House- 37 Road-12"
+120,Hongbao,4.5,182,not specified,65 Gulshan Ave
+121,Manin Chun-Ji Chinese & Thai Restaurant,3.6,266,$$,"1/1, A, Free School Street, Sonargaon Road"
+122,Roll Xpress Cafe,4.4,"1,376",$$,"House 34, Block B Rd No # 21"
+123,Cafe Euphoria,3.8,245,$$,100 Rd No. 11
+124,Thai Signatures,4.3,448,$$,House 6/A Rd 113
+125,Nirob Hotel,3.9,"2,378",$$,"H.No 114 নাজিমুদ্দিন রোড, Near Old Central Jail"
+126,Dark Burg Dhaka,4.9,15,$$,"Sultan Mansion, Signature Food Court Roof Top (8th Floor) Holding No. 3, 12 Begum Rokeya Avenue"
+127,Sky View Restaurant,3.9,465,$$,"Novo Tower, 270, 15th Floor, Shaheed Tajuddin Ahmed Ave"
+128,New Melbourne Thai & Chinese Restaurant,3.7,389,not specified,"220/A/2/1, বেগম রোকেয়া সরণী, West Kafrul, Mirpur"
+129,Chilis,4.1,"1,709",$$$,420 Ring Rd
+130,XINXIAN Restaurant,4.0,"1,899",$$,"House No, 1 Rd No 8"
+131,China Sizzling Restaurant/ Vooter Adda,3.9,"1,812",$$,Opens at 11:30 AM
+132,Ulta Voot The Restaurant,3.9,622,$$,House 36 Road No. 2
+133,Shadhin Restaurant,3.6,170,$,"2/GA/1, Nabab Habibullah Road"
+134,Chalet Restaurant & Bar,4.4,"1,945",$$$,"45, Saudia Trade Center, Kazi Nazrul Islam Ave"
+135,Pizza Guy,4.3,"3,464",$$,"House 1113, Road 17, Block I Bashundahra Residential Area Bashundhara, Dhaka 1229"
+136,The Great Kabab Factory,4.2,681,$$,"Shop #1C-037, 1st Floor, Jamuna Future Park KA 244, Kuril, Pragati Shoroni"
+137,AMERICAN BURGER 🍔,4.4,628,$$,"Metropolitan Shopping Plaza Shop#21.22, Road#46"
+138,Soi 71 Roofgarden,4.2,459,$$,17 Sonargaon Janapath
+139,Cafe liquid,3.8,46,$$,"Madani Avenue, shamsher nagar Bara Beraid"
+140,Palm View Hotel and Restaurant,4.3,"1,824",not specified,Not Provided
+141,Attin Arabian Restaurant,4.3,100,not specified,Rd No 27
+142,Hakka Dhaka,4.1,954,$$,2 Baily Rd
+143,Mouri Restaurant,4.0,129,not specified,30 Bijoy Nagar Road
+144,Sultani Vojj Restaurant,3.7,197,$$,P9JP+WCC
+145,Piccadilly Restaurant,3.6,827,$$,"21, Monipuri Para, Sangshad Avenue,"
+146,kiyoshi,4.4,820,$$$,Opens at 12:00 PM
+147,FEAST Restaurant,3.9,8,$$,"FARS Hotel Resort, Shahid Syed Nazrul Islam Sharani"
+148,আপন রেস্টুরেন্ট,3.4,7,$$,QCP6+H5H
+149,The Dark Music Cafe And Restaurant,3.7,"1,743",$$,"ZR Plaza, Level#10 Satmasjid, Road No# 19(old),Road No# 9A(new), Dhanmondi, Dhaka"
+150,The Buffet Stories,4.0,"2,352",$$,58 Rd 10/A
+151,Oliver's Restaurant,3.8,796,$$,568/C khilgaon
+152,IQRA Restaurant,3.8,886,$$,586 Begum Rokeya Avenue
+153,Radhuni Restaurant,4.0,353,$$,"1st floor, House No, Sultan Ahmed Plaza, 32 Purana Paltan"
+154,Da Rooftop,4.0,"1,569",$$,"397/b, khilgaon Chowdhury Para, Shahid Baki Rd"
+155,Pizza Hut,4.0,"1,170",$$,"41,A K Famous Tower, Rankin St"
+156,BURGEROLOGY,4.3,"1,814",$$,"Burgerology , Ka-7/2, (2nd Floor, Bashundhara Rd"
+157,Spice Route Restaurant,3.7,310,$$,380
+158,FARHENCE Chinese & Thai Restaurant,3.9,285,$$,19 Gate No 3 Monipuri Para Sangsad Bhaban Avenue
+159,Ozong Restaurant,3.8,324,$$,"K.B. Rangs Square, 2nd Floor, 49/A Satmasjid Road, Dhanmondi, Opposite To Kakoli High School"
+160,The Great Kabab Factory,4.0,2,$$,"181/1 (old), 54 (new), Road no. 20 (old 10/A (new), 7th Floor"
+161,LA TING TING,3.9,233,$$,"Shohel Market Rooftop Beside Rupayan City, Shonargaon Janapath road, Khalpar Bridge"
+162,Tandoori,3.3,134,$$,Bir Uttam Ziaur Rahman Rd
+163,The Rio Lounge,4.1,880,$$,"7th Floor, Gulshan Pink City Shopping Center, 15 Gulshan Ave"
+164,Pizza Hut,4.3,"6,542",$$,"Plot # 754, Satmasjid Road"
+165,Secret Oven,4.1,11,not specified,"House 6 , Block E, Rd No.17A"
+166,Kurry Accent,4.3,380,$$$,"H.No, 9/A Rd 53"
+167,The Cafe Rio Limited,3.9,"3,313",$$,"Mir Noor Square House No-43,Level 4, Road No-2/A, 1205 Opposite Jigatola Bus Stand"
+168,Dhaba,4.1,504,$,House-15 Lane-14
+169,Al Grissino Dhaka,4.5,57,not specified,"B, house no 77, 1230 Road-12"
+170,Soul Food,5.0,1,$$,Badda Dhaka-1212
+171,The Sizzle Restaurant,3.5,178,$$,PCRP+C3V
+172,The Coffee Bean & Tea Leaf,4.3,"3,382",$$$,"House No 11, A Rd 117"
+173,Hungry Restaurant,3.7,387,$$,Dcc-7
+174,Tokyo Express,4.2,"1,590",$$,"House No: 16/B, Road No: 112"
+175,Haji Biryani,4.0,"2,701",$$,"99, Motijheel b/a, (Karim Chamber), Beside Biman Office"
+176,La Bamba,3.9,"2,896",$$,Rabindra Sarani
+177,Tempt-Asia Restaurant,4.4,71,not specified,"Chandiwala Mansion, House 32 Rd No. 11"
+178,Red Smoke Restaurant,3.7,170,$$,সদরঘাট - গাবতলি সড়ক
+179,"New Sohag Hotel and Restaurant. 47, Kakrail, Ramna, Dhaka - 1000.(নিউ সোহাগ হোটেল এন্ড রেস্টুরেন্ট। ৪৭, কাকরাইল, রমনা, ঢাকা - ১০০০)",0,0,not specified,73 Pioneer Rd
+180,Hobnob Coffee Banani,4.3,217,not specified,"2nd Floor, Taneem Square, 158/E Kemal Ataturk Ave"
+181,Waterfall Garden Cafe & Restaurant,4.3,104,not specified,"suvastu market, 32/5 Shajadpur oposed"
+182,"Grand Prince Thai & Chinese Restaurant, Dhaka.",3.9,"1,216",$$,"PARADISE PLAZA, PLOT NO. 6 & 11 MIRPUR-1,"
+183,Dhakaiya Pakki Biriyani,2.5,2,$$,"Road-12, House 37,Dhaka"
+184,Alitto Food,4.7,10,$$$,"Plot # 1, 2 ব্লক#ডি"
+185,The Dining Lounge Mirpur,3.7,719,$$,Opens at 12:00 PM
+186,Lake Green Lounge & Restaurant,3.7,250,$$,"Plot No-39, Block-C Aftab Nagar Main Rd"
+187,The Garden Kitchen at Sheraton Dhaka,5.0,1,$$,44 Kemal Ataturk Ave
+188,"The Cafe Rio, Uttara",4.1,"2,591",$$,"5th Floor, House # 6 Road # 2, Jashimuddin Ave"
+189,Arabian Nights Restaurant,4.0,"1,362",$$,"22/14 Block C, Tajmahal Rd"
+190,Pizza Hut,4.0,"1,225",not specified,"Sony Cinema Bhaban, Ist Floor, Plot-1, Block-D,Sector-02, Mirpur, Dhaka-1216"
+191,Captain's World,4.0,"7,970",not specified,"Zahangir Gate, New Airport Road"
+192,CapriCorn's World Sky Watch Restaurant,3.9,"1,652",$$,Q9GR+CVP
+193,Onunishu best bangla restaurant at dhanmondi in dhaka,0,0,not specified,P9XQ+7PV
+194,"Shawarma House, Mirpur 11.5",3.9,570,$$,"Pallabi Bus Stand, Mirpur, 11.5 Begum Rokeya Avenue"
+195,Robot Restaurant Bangladesh,3.6,250,$$,"Family world tower, 2/6, Mirpur road, Asad gate"
+196,Adda Restaurant Keraniganj,4.1,146,$$$,Nekrojbag Highway Road
+197,Shanghai10,4.2,94,$$,"Level 7, House 100, Road 11, Block C Same Floor Of Sushi Samurai"
+198,Koi-Pabda & Lobster Restaura,3.9,315,$$,"Alam Tower, 12 DIT Ave"
+199,Hello Sir,3.8,12,$$,"Shop- 5, National School Market, Opposite Of Mirpur Model Thana, Mirpur- 2"
+200,Filmy Cafe,3.6,332,not specified,"বাড়ি নং- ২৪, Rd No. 9"
+201,Sanxi Thai Chinese,3.9,"1,159",$$,"House#1/B, Road#13, South"
+202,Cheese Lab,3.6,706,$$,"20/5 west, Panthapath"
+203,Red Orchid Restaurant & Party Center,3.9,930,$$,400 New Eskaton Road
+204,Olympus Dhaka,0,0,not specified,"Block D, House #71, Rd No. 11"
+205,Food Club Cafe,5.0,2,not specified,"Ta Ma House 185/4/A,South badda, 1212 lake road"
+206,Amazon Lilly Lake View Residence,4.1,357,$$,Not Provided
+207,Lakeshore Banani,4.3,"1,268",$$,Not Provided
+208,La Bamba,3.9,788,$$,"Hous-09, Shonargaon Janapath (Near to House Building), Sector-07, Uttara"
+209,Panshi Hotel & Restaurant,3.7,687,$$,"Ga- 72/9, Titash Mansion, Ga- 72/1 Progoti Sharani, Middle Badda"
+210,Delhi Darbar,3.0,4,$$,"44, Probal Housing, Ring Rd"
+211,KFC,3.9,"2,074",$$,"03 New Baily Road, 10 Natok Sharoni Gold Hunt Shopping Complex"
+212,Daily Treats,4.5,2,not specified,"The Westin, Main Gulshan Ave"
+213,Resturant সপ্তডিঙা,0,0,not specified,Panthapath
+214,অয়েস্টার মিনি চাইনিজ ও রেঁস্তোরা,3.6,459,$$,"27 Monipuri Para, Sangshad Avenue"
+215,Chicken Republic,3.6,68,$$,Bir Uttam Mir Shawkat Sarak
+216,Pizza Hut,4.2,973,$$,"Ahmed Plaza, HOUSE No 6, Ground Floor, Beside Rak Tower, Road-2"
+217,Azuki express,4.8,4,not specified,Road no.1 shornali abashon shwadesh properties khilkhet 300feet road
+218,Shimante Kichukhon,4.0,382,$,21 Golondaz Rd
+219,The Burger Bite,4.1,207,not specified,Rd No. 1
+220,THE KABABIAN Multi-Cuisine RESTAURANT,4.1,198,not specified,"House # 7 ( opposite Abahoni Club), Road # 1 (AC Mosjid Road),, Block # G Halishahar H/Estate Chittagong"
+221,Cafe Spice,4.1,25,not specified,Golondaz Rd
+222,Bay Leaf Restaurant,4.0,284,not specified,"Holding No-2196, Plot-2, Road-2, Lane-1, Block-k, Halishahor H/E"
+223,Khandani Restaurant,3.6,585,$$,"12/A, 3rd Floor, Shahamanat Complex Near Qrex Diagnostic Center, PC Road"
+224,Bonfire Restaurant,3.7,337,$$,"Nochima Bhaban, k-block Port Connecting Road, Halishahar Housing Estate"
+225,ফুড ফেস্টিভ্যাল রেস্টুরেন্ট,4.0,1,not specified,"Foillatoli Bazar, P H Amin, Halishahar Rd"
+226,Ambrosia Restaurant Ltd,4.2,"2,073",$$,"1053, Ground Floor & 1st Floor, Jiban Bima Bhaban, Sheikh Mujib Rd"
+227,Tayef Garden Rasoi,3.7,329,not specified,"Naya Bazar Circle, P.C Road"
+228,Marvel Dine,4.0,9,not specified,"K- Block,House-8,Road-3,Silver bells school goli"
+229,Grand Mughal restaurant,4.1,860,$$$,CMP Plaza
+230,Spicy Kitchen Chittagong,4.3,40,not specified,কৈবল্যধাম সড়ক
+231,Royal Hut,4.2,"2,032",$$,"15, O.R Nizam Road, Panchlaish, Opp. Shishu Park M.A Aziz Stadium Market"
+232,Meal City,4.1,998,$$,"Equity Centrium, 5th floor G.E.C Circle NCC Bank Building, O. R. Nizam Rd R/A Rd"
+233,Royal Hotel And Restaurant,3.6,349,not specified,"Agrabad Access Road, Agrabad, Barapole"
+234,Regalo,4.1,426,not specified,"42, Moss Rose Heights, M.M Ali road, WASA Circle, Lalkhan Bazar"
+235,Broast Cafe,4.1,"1,587",$$,"679, Highway Plaza ( 1st Floor, 846 CDA Ave"
+236,Royal Hotel And Restaurant,3.6,349,$,"Agrabad Access Road, Agrabad, Barapole"
+237,Regalo,4.1,426,not specified,"42, Moss Rose Heights, M.M Ali road, WASA Circle, Lalkhan Bazar"
+238,Broast Cafe,4.1,"1,587",$$,"679, Highway Plaza ( 1st Floor, 846 CDA Ave"
+239,Family Cafe,3.8,92,not specified,8QPJ+QRP
+240,Faha's Kitchen,4.3,283,$$,"Aziz Court(1st Floor),88-90, Agrabad C/A Chittagong Chittagong"
+241,New Diamond Restaurant Chittagong,4.4,11,$$,2656 Sheikh Mujib Rd
+242,Kutumb bari Restaurant,3.8,648,$$,"Zia Market, Alankar More, Pahartoli, A.K Khan Gate, Anjuman Tower"
+243,Curry Pot,4.2,256,$$,"RF Police Plaza, Lift -5"
+244,The Pavilion,4.1,807,not specified,"787 Avenue Center, CDA Ave"
+245,Shangri-La Restaurant,3.9,996,$$,"39, Jiban Bima Bhaban, Agrabad Commercial Area, Agrabad, Badamtoli"
+246,Yellow cup resturant,3.5,15,not specified,Boropole Rd
+247,Bonanza Port Restaurant,4.1,976,$$,"Bandar Bhavan, Port Colony Road, Main Gate"
+248,Silver Spoon,4.1,"2,195",$$,"Sattar Chamber 99 Agrabad, C/A Commerce College Road"
+249,BIR Chattala,4.2,"2,782",$$,87 Shahid Saifuddin Khaled Rd
+250,A.R. Restaurant,3.9,15,$$,8QQ7+QH4
+251,The Village Restaurant,4.1,951,$$,"Finlay House, Ground Floor, Ooposite CGO Building 11, Agrabad C/A"
+252,Holy Fame Restaurant,3.8,501,$$,"1st &2nd Floor, Plot- 11, N.R.J. Complex, Block- G Firozshah H/E, Koibolya Dham Rastar Matha, Dhaka - Chittagong Hwy"
+253,Tava Restaurant & Lounge,4.1,865,$$$,4 Zakir Hossain Rd
+254,Lezzetli Turkish Delicacy,4.4,17,not specified,787 CDA Ave
+255,Bonanza,4.0,396,$$,"2nd & 3rd Floor 1692, Golden Plaza CD Avenue, Circle"
+256,Hunger Zone Restaurant,3.9,54,not specified,"22 No. Enayet Bazaar Ward, M A Aziz Stadium Market, Kajirdawri"
+257,Handi Restaurant,4.0,"5,022",$$,"M M Ali Road, Punak Bhaban, CDA Ave"
+258,Lake Dine Restaurant,3.8,"1,260",$$,"S.S Khaled Road, West Side Of Ashkar Dighi, Ashkar Dighirpar"
+259,ক্যাফে চিটাগাং,3.0,1,not specified,Shahid Saifuddin Khaled Rd
+260,cube,4.1,133,$$,"CPDL Khan Manor, 84/A"
+261,Afghan Restaurant,3.9,"1,021",$$$,"62, Badsha Mia Bhaban, Beside Badsha Mia Petrol Pump, 2no. Gate"
+262,Jollibee,2.8,4,$$,"Shop #02, Alankar Shopping Complex (2nd Floor ),Alankar More, Pahartali"
+263,bonjour Buffet Lunch & Dinner Everyday,4.5,64,$$,"Golden Plaza, 1692 CDA Ave"
+264,Senang Bowl,3.8,398,$$,"Innovative Bhuiyan Orchid, 1025/Ka, 4226 Chittagong"
+265,Kathkoyla,3.9,131,$$,"Kashfia Plaza, 923 /A Sheikh Mujib Rd"
+266,Kutumbari Restaurant And Biriyani House,3.8,"1,226",$$,"Anjuman Tower (Ground Floor), A.K, khan Circle"
+267,Swapnil Restaurant,4.0,185,$$,"46, Buddhist Temple Road"
+268,Sherebangla Restora,3.9,48,not specified,"K N Tower, Sheikh Mujib Rd"
+269,Food Plaza Cafe & Restaurant,3.9,55,$$,"Zakir Hossain Road, Opposite of TV Tower Foy's Lake, Khulshi"
+270,Adda Restaurant,3.9,79,$$,"RF Police Plaza, কে সি দে সড়ক"
+271,EXCELENTE MULTI CUISINE RESTAURANT,4.3,42,not specified,Naval Ave
+272,Hotel Zaman & Restaurant,3.9,748,$$,"811, Hazrat Taybia Tower, 1st & 2nd Floor, Dhaka - Chittagong Highway, Akbar Shah Market, A.K Khan Circle, North Pahartoli"
+273,KRAVE,4.4,318,$$$,"6th Floor, Innovative Bhuiyan Orchid, 1025/A Bayazid Bostami Rd"
+274,White Leaf,5.0,1,$$,Not Provided
+275,Segafredo Espresso Chittagong,4.3,850,$$$,"1025/A, Innovative Bhuiyan Orchid"
+276,The Chittagong Hotel And Restaurant,3.7,28,$$,"Wireless Moor, Pahartoli College Road, Murgir Farm Gate, Khulshi"
+277,Sultan’s Dine - Chittagong,4.1,972,$$,"East Nasirabad Mosque, SAF Arcadia, 4000 Bayazid Bostami Rd"
+278,Fusion Eats,4.2,242,not specified,81 Shahid Saifuddin Khaled Rd
+279,Bird's Bench (Chinese Restaurant),5.0,1,not specified,Sheikh Mujib Rd
+280,KAI Restaurant,3.9,424,$$$,9R65+VMJ
+281,Dhaba,3.8,595,$$,"Shop No. 4/5, Zakir Hossain Road Punak Bhaban, Dampara"
+282,Mezzan Haile Ayun,4.2,"1,611",$$,95 K.B. Fazlul Kader Rd
+283,Snowva The Restaurant,3.8,92,not specified,"1558, Millennium Tower, Agrabad Access Road Hajipara, Opposite Singapore Market"
+284,Flamingo Cafe,3.9,43,$$,"486/B, O.R. Nizam Rd"
+285,The Kitchen Diary,3.9,270,$,"5TH FLOOR, Buddhist Temple, RF Police Plaza"
+286,Orient Restaurant,3.8,267,$$,8R84+349
+287,The Sky Lounge & Restaurant,4.0,"1,221",$$,"23/A, Atlanta Trade Center, O.R. Nizam Rd"
+288,Alif Restaurant And Biriani House,4.0,415,$$,"Alonkar, Alonkar Shopping Complex, Port Connecting Rd"
+289,Daily Mezzan ডেইলি মেজ্জান,4.4,87,$$,Muradpur Cir
+290,Korea Restaurant,4.5,42,not specified,"House # 12, 2 Rd 2"
+291,Madina Food Corner,0,0,not specified,Sheikh Mujib Rd
+292,Haldi Arabian House.,4.2,64,not specified,106/A O.R. Nizam Rd
+293,Zaffran Restaurant,3.7,221,$$,"4000, genuine tower ,rahmatganj, K B Abdus Sattar Rd"
+294,The Gallery,3.8,458,$$,"17/3-7, East Gallery, M.A Aziz Stadium, Shahid Saifuddin Khaled Road, Kazir Dewri"
+295,Chin Lung Chinese Restaurant,3.9,107,not specified,48 Huseyn Shaheed Suhrawardy Rd
+296,Blue Ocean Restaurant,3.6,10,$$,Momin Rd
+297,Afiya Restora,3.5,4,$,"1495, Chatteswari Road, Kazir Dewri, Dampara"
+298,Pizza Hut,4.2,"2,956",$$,"805/B, JB Complex, CDA Avenue, GEC Mor"
+299,VR Chittagong,4.3,240,$$,"Shop#438, 3rd Floor, Khulshi Town Centre, 426 Zakir Hossain Rd"
+300,Eden Restaurant & Kids Zone,4.2,88,$$,CPDL Khan Manor
+301,Friolento Restaurant & Cafe,4.0,351,$$,"24 Naval Avenue, C.R.B. Rd"
+302,Lake view restaurant,4.1,37,not specified,৯ নং উত্তর পাহাড়তলী ওয়ার্ড
+303,The Serial Griller,4.1,"1,633",$$,"House no. 1000/A, Hosne Ara Villa, Level 4, CDA Ave"
+304,The Copper Chimney,4.4,93,not specified,Unnamed Road
+305,KFC,4.1,"2,579",$$,1839 CDA Ave
+306,Dorothy Fried Chicken,4.0,191,not specified,CDA Ave
+307,Boomtown Cafe,4.1,273,not specified,"Beside Teletalk Office), MM, H N Center, Mohammed Ali Rd"
+308,Chittagong Dine - চিটাগাং ডাইন,4.0,34,$$,College Rd
+309,"The Copper Chimney Restaurant, Gec",4.2,145,$,"Sanmar Towel 1, CDA Ave"
+310,Riverview restaurant,4.1,595,$$,"Ghat, 11 Potenga Rd"
+311,ব্লু লাউঞ্জ রেষ্টুরেন্ট,4.2,725,$$,"Bayazid Cantt. Supermarket, Bayazid Bostami Rd"
+312,Hunger Killers,4.2,582,$$,"Hakim Plaza, 168, 169 College Rd"
+313,কাবাব হাট Kabab Hat,5.0,1,$$,414 Bayazid Bostami Rd
+314,Monginis Restaurant,3.4,81,$$,56 Momin Rd
+315,নিউ ডায়মন্ড রেস্টুরেন্ট,5.0,1,not specified,2656 Sheikh Mujib Rd
+316,The Copper Chimney,4.4,93,not specified,Unnamed Road
+317,Elachi Restaurant,3.6,218,$,"Housing Colony Road, Ali Market, Steel Mill Bazar, Patenga"
+318,Laziza,3.9,293,not specified,"23/A, O.R. Nizam Rd"
+319,Snowva,3.7,127,$,"37 S. S. Khaled Road, Kazir Dewri Mallika Bhaban"
+320,Ayojon Restaurant,4.0,11,$$,8RH6+3Q7
+321,Mejjainna Bari,4.2,"1,340",$$,"H.No, 14, Nasirabad Housing Society, Road No 4, Behind Chittagong Shopping Complex, Sholashahar, Nasirabad"
+322,Silver City Restaurant,3.8,114,$$,56 Momin Rd
+323,Meridian Restaurant CEPZ,3.9,207,$$,7QPC+WR3
+324,Crush Cafe,4.0,577,$$,Chatteshwari Road
+325,Gani Restaurant,5.0,1,$$,গনি বেকারী মোড়
+326,Santino Cafe Chattogram,4.2,13,not specified,Not Provided
+327,Chomok restaurant,3.9,134,not specified,Highway Plaza 1st Floor
+328,Kashbon Restaurant,3.8,642,$$,"Circle, 1st Floor, Hussain Plaza, A G Road"
+329,""" Arefeen's Food.""...",2.9,8,not specified,"Equity Centrium 4th Floor,GEC Circle"
+330,Bellpepper Restaurant,3.9,880,$$,"63, Zinnurine Complex, Ground Floor, 2 No. Gate"
+331,The Plate,4.0,75,not specified,"687, Mehedibagh, Chittagong Chittagong (Chattogram Chittagong"
+332,Nibedon Hotel & Restaurant,4.8,6,$$,"Pathantuli, Agrabad"
+333,Tai Wah Restaurant,3.9,153,$$,Dampara Wasa Cir
+334,Rodela Bikel,3.8,44,$$,"H & M Tower ( Ground Floor), SK, Sheikh Mujib Rd"
+335,GEC West,4.1,28,$$,"The Peninsula, Bulbul Center, 486/B CDA Ave"
+336,Errante,4.0,"1,325",$$,"94, 8th Floor & Rooftop, Eves Center, Nasirabad Housing Society, Road No 3, Nasirabad"
+337,Cafe Milano,4.1,"2,630",$$,"89/309, Yakub Trade Center (Level-5),, Beside Badsha Mia Petrol Pump, East Nasirabad"
+338,"The Eatalia, chittagong",4.1,193,$$,"787/863 M M, Mohammed Ali Rd"
+339,Kashem Hotel and Restaurant,0,0,not specified,"D.T. Road, Monsurabad, Pahartali"
+340,IBIZA - Crisp & Crush,4.2,76,not specified,"Shop No, Kulshi Town Center, (Concord Tower), South Khulshi, 426 Zakir Hossain Rd"
+341,Bangaliana Restora & Yummy Foods - বাঙালীয়ানা রেস্তোরা এন্ড ইয়াম্মি ফুডস,3.9,291,not specified,74 Station Road
+342,Hunger Games,4.0,726,$$,"1027, CJKS Shopping Complex, Neval Avenue, Kajirdawri"
+343,Sadia's Kitchen CHK,3.8,"2,116",$$,167 College Rd
+344,Khana Ghat,3.6,488,$$,"64/B, Chatteshwari Road, West Side Of Gulzar Tower"
+345,The Pizza Park,3.9,350,$,"Hoque Tower, আরকান সড়ক"
+346,Sadia's Kitchen,3.8,"1,718",$,"GEC Circle, CDA Ave, Bata Gali"
+347,Kentucky,4.0,421,$$,"129,KB Fazlul Kader Road, Chattogram Medical East Gate K.B. Fazlul Kader Road 129,KB Fazlul Kader, Road, Medical East Gate"
+348,পেরাগ ফৌাক্টরী,4.5,2,$$,M. A Aziz Rd
+349,TEN 11 LOUNGE,4.1,399,$$,8RWG+93Q
+350,Oregano,4.0,99,not specified,"Monaf Bandari Market, Lalkhan Bazar Cir"
+351,Koyla,3.6,380,$$,7QMM+358
+352,7 Dayz Agrabad Branch,4.1,420,$$,"125, South Land Center, Agrabad Access Rd"
+353,Bangliana Restora - বাঙালীয়ানা রেস্তোরা,4.0,384,$$,"১১৪ হাইওয়ে প্লাজা (নীচতলা ), চানমারি রোড, Ispahani Cir"
+354,Daba Restaurant,3.7,178,$$,"189/A, 1st Floor, College Road, Parade Corner Infront of Keari Market, College Rd"
+355,"HashTag - Restaurant, Music Cafe & Lounge",3.9,697,not specified,"Plot No.: 07, CDA Masjid Complex, Mehedibag"
+356,Platter Town Lounge & Restaurant,4.0,28,$$,8RWF+MWW
+357,The Chickn,4.5,25,$,biplob uddan shop no 14/15Muradpur
+358,Chittagong Satkania,0,0,$,Not Provided
+359,Soho Fine Dining Resturant,4.0,112,$$,8RG8+MHP
+360,Fly View Restaurant,4.1,463,$$,"Roof Top, Shaheen Golf And Coundtry Club Patenga Road"
+361,Chattometro Restaurant,3.7,"1,051",$$,"yasmin vally, 409 Shahid Saifuddin Khaled Rd"
+362,Chittagong Hotel,3.9,45,not specified,"Kacha Bazar More, Amin Colony, Baizid"
+363,Raoha Hotel & Restaurant,4.2,9,not specified,9Q4H+HC2
+364,Coastal Mermaid Restaurant & Lounge,3.8,353,$$,Port Link Rd
+365,Hotel New Zaman and Biriyani House,3.5,233,$$,Huseyn Shaheed Suhrawardy Rd
+366,Grillx,5.0,7,not specified,Opens at 11:00 AM
+367,A'Live Kitchen,5.0,2,not specified,Not Provided
+368,Rooftop BBQ,4.8,4,$$,"Road # 01, Plot # 02 O.R. Nizam Rd"
+369,Burgerita,4.3,"1,114",$$,"Abdul Latif Road, Road-1, Katalgong"
+370,Cafe Rangam Restaurant & Party Hall,4.2,44,$,"Ashfi Rangam Tower, 1st Floor, Rangam Cinema Rd"
+371,Govinda's Hotel & Restaurant,4.1,710,$,"J B Tower Beside Nobograho Bari Laldighir Uttar Pachim Par, 220 J. M. Sen Ave"
+372,Wind of Change - Rooftop Restaurant & Lounge,3.9,"1,426",$$,"Level-8/9, 89/309, Yakub Trade Center, Beside Badsha Mia Petrol Pump, Bayazid Bostami Road, East Nasirabad"
+373,Jumairah Restaurant & Party Center,0,0,$$,"3rd Floor, Keari Elysium"
+374,Dhaka Hirajheel Restaurant- Agrabad,3.5,26,not specified,Sheikh Mujib Rd
+375,Bangla Lanka Restaurant,3.7,75,not specified,"জাকির হোসেন রোড. মোবাইলে কল দিন 01766141263, Wireless Moor, Khulshi"
+376,সাধের কাচ্চি,0,0,not specified,Not Provided
+377,TMT Daily Needs,3.9,983,$$,24 Mohammed Ali Rd
+378,Well Food,4.4,89,$$,"Rahat Center, 295 ঢাকা ট্রাঙ্ক রোড"
+379,Masala Twist Restaurant,3.5,632,$$,"Aimon Center, Opposite Keari, Chawkbazar"
+380,Dastagir Hotel and Restaurant,3.9,"1,191",$,"Anderkilla, 126 Momin Rd"
+381,Khabar Lagbe,4.9,11,$$,Closed ⋅ Opens 6PM Thu
+382,Riverine Restaurant,3.9,751,$$,"Naval Beach Road, Near Airport, Airport Rd"
+383,Gulistan Hotel,3.9,71,$,94 Station Road
+384,La Aristocracy,3.9,159,$$,"1st Floor, CPDL Chowdhury Heights, Shahid Saifuddin Khaled Road, 81/A Jamal Khan Rd"
+385,"Bangladesh Navy School and College, Chittagong",0,0,$$,BD Bangladesh
+386,Sadher Tong - সাধের টং,4.0,355,$,Oxygen - Kuwaish Rd
+387,Hotel Zaman Restaurant And Biryani House Chittagong,3.9,99,not specified,Hathazari Rd
+388,Food Bank,0,0,not specified,"Shop No-39, Ground Floor, Chittagong Shopping Complex, CDA Avenue, Sholashahar, Nasirabad"
+389,Taqbeer - তাকবীর রেস্তোরা,3.7,267,not specified,"Nur Plaza, 568/812, Bandartilla"
+390,Cafe Gustoso,3.7,3,not specified,biplob uddan shop no 11
+391,Al Madina Hotel & Restaurants,2.4,5,not specified,"295, Nabab Siraj Ud Daula Road, East Side Of Parade Mart"
+392,Ekota Hotel and Restaurant,3.3,16,$,Dhaka - Chittagong Highway
+393,Sinosip Mini Chinese,3.4,64,$$,8RVM+XM6
+394,Hotel Sufra & Restaurant,5.0,2,$$,"Beside, BRTC Market, Batali Rd"
+395,চট্টগ্রাম,0,0,$,9R84+GJ8
+396,Shuktara Chinese Restaurant and Park,3.9,383,$,Port Link Rd
+397,স্বপ্নপুরী মেনশন,0,0,$$,9R8M+FXG
+398,New Biryani House Mehedibag,0,0,not specified,13 Mehidibag Rd
+399,Shahjahan Hotel & Restaurant,3.5,48,not specified,চট্রগ্রাম হাটহাজারী মহাসড়ক
+400,Foy's Lake Guest House & Restaurant,3.3,4,not specified,"2 No. Concord Building, Foy's Lake Road, Khulshi"
+401,The Green Olive Restaurant,3.9,36,not specified,"42, 1st Floor, CDA Avenue, High Level Road, Beside SONY Centre, Wasa Moor, Lalkhan Bazar"
+402,Bonfire Pizza And Grill,3.5,35,not specified,"FinlaySquare 5th Floor Shop No:509, East Nasirabad 2 No Gate Panchlaish"
+403,Rabbir tong,4.1,7,not specified,M. A Aziz Rd
+404,Meridian Hotel & Restaurant,3.9,"1,129",$,1367 CDA Ave
+405,Rio Coffee,4.3,"1,462",$$,"ওয়েল ফুড সেন্টার, 3rd Floor, GEC Circle, 944 O.R. Nizam Rd"
+406,Rax Hotel and Restaurant,3.6,150,$$,Not Provided
+407,Jhal Muri (ঝাল মুড়ি),0,0,$,C.R.B. Rd
+408,Coffee Shot,4.2,271,$,"House:23, Lane:03, Road: 01, Block: L, H/E"
+409,Makhon,0,0,$$,O.R. Nizam Rd
+410,Chatime Chattogram,3.9,384,not specified,"41, M.M Ali Road, CDA Ave"
+411,See Marmaid Restaurant,4.1,206,not specified,Opens at 11:00 AM
+412,Cafe 24 Park,4.2,828,not specified,CQFW+6MR
+413,Dearly Ice Cream Shop,4.0,127,$$,O.R. Nizam Rd
+414,Golf Garden Restaurant,4.2,531,$$,Bhatiari - Hathazari Link Road
+415,"Café 24, The Peninsula Chattogram",4.2,196,not specified,"Bulbul Center, 486/B CDA Ave"
+416,Nongor Restura 2,4.7,11,$,Chittagong - Cox's Bazar Hwy
+417,foodpanda Chittagong,3.6,38,$$,"IFCO Complex (4th Floor), 1147/A, GEC Circle, CDA Ave"
+418,HOTEL MEGA INTERNATIONAL PARTY HALL & RESTAURANT,3.2,21,$$,Not Provided
+419,"Baatighar, Chattogram",4.6,"3,492",$,"Press Club Bhaban, Ground Floor, 146/151 Jamal Khan Rd"
+420,RES2RAN,3.6,187,$,FRG7+7G4
+421,Finlay Square,4.3,"7,003",$$,"Plot no, 5 CDA Ave"
+422,Sub-Zero,4.1,159,not specified,"Sanmar Ocean City, 997 Rd 09"
+423,Four Seasons Restaurant & Resort,4.0,"10,336",$$,চট্টগ্রাম - কক্সবাজার মহাসড়ক
+424,Hotel Agrabad,4.3,"3,669",not specified,"Sabder Ali Road, Agrabad C/A"
+425,Butterfly Park Bangladesh,3.9,"1,530",not specified,"15, Naval Academy Road, Beside Airport, Patenga"
+426,Peda Ting Ting,3.9,326,not specified,M63H+4RW
+427,Chittagong War Cemetery,4.7,512,not specified,19 Badshah Miah Chowdhury Rd
+428,Oasis By Hotel Prime Park,4.8,14,$,Hotel Prime Park
+429,EFC-A Live Fish Restaurant,4.1,"1,478",$$$,"Opposite Hotel Shaibal Motel Road, Hotel Model Zone"
+430,Mermaid Cafe Marine Drive,4.2,398,$$,"Mermaid Beach, Marine Drive Road, Pechardwip"
+431,Mermaid Cafe,4.2,"2,252",$$$,"Near Dragon Mart, Kolatoli Road, Sugandha Beach Sea In point, Hotel Motel"
+432,Casablanca Restaurant,4.3,24,$,CX7M+JQ2
+433,Ruposhi Bangla Restaurant,4.1,"2,877",$$,"Shugondha Point, Beside of Hotel Silver Bay, New Beach Rd"
+434,Salt Bistro & Cafe,4.3,"1,130",$$,"10, Kalatoli, Hotel-Motel Zone"
+435,Koyla,3.9,396,not specified,"Laboni Point, Near Stadium, Laboni Beach Rd"
+436,Chopsticks and Chutney,4.2,98,not specified,"Block A Plot 13, Jhawtola Main Rd"
+437,Sea Lamp Beach Cafe,4.0,692,$$,"Near At Alif Kolatoli Circle, Main Drive Road, Kolatoli New Sea Beach"
+438,Patenga Sea Beach,4.4,"3,984",not specified,Not Provided
+439,Palongki Inani (Authentic Bengali Food Restaurant),3.9,686,$$,"Marine Drive, Inani Beach, Jaliapalong"
+440,Shah Amanat International Airport,4.2,"3,158",$,Potenga Rd
+441,Chittagong Bull,4.2,"2,237",$$,"Opposite Shahjalal Islami Bank, 112 Gulshan Ave"
+442,Highway Plaza,3.9,"1,507",$$,"Highway Plaza, Lalkan Bazer"
+443,Hotel Safina Ltd.,3.7,893,$$$,Not Provided
+444,"Regional Controller of Food Office, Chittagong, Bangladesh",4.2,6,$,Post Office Lane
+445,Times Square Hotel and Restaurant,3.3,"4,889",$$,Dhaka - Chittagong Hwy
+446,Jibon Bima Corporation,4.2,46,not specified,"268, Raja Noor Plaza, Dewanhat"
+447,Chittagong Jela Krira Sangstha,4.3,81,not specified,C.R.B. Rd
+448,Master Chef,3.9,"2,042",$$,"R685, Rajshahi Association (Alokar More)"
+449,Hungry Heroes,4.3,618,$$,"Sohidullah Tower 02, 5th Floor, Ranibazar rajshahi"
+450,Tasty Time restaurant and theme park,4.0,913,not specified,Opens at 11:30 AM
+451,Backyard Kitchen,4.3,346,$$,Sagorpara Bot tola Chou rastar Mor Rajshahi
+452,The Mahal Restaurant,4.0,342,$$,Opens at 11:30 AM
+453,Refreshment,4.2,178,$$,Ward-12 Rajshahi city
+454,Ohona Restaurant,4.0,3,not specified,9J82+6F4
+455,Foodies Zone,5.0,2,not specified,"North Side Of Jamal Super Market ,79 Rajshahi"
+456,Best Italian Arabian Western Thai Chinese fast food Restaurant in Rajshahi,4.5,2,not specified,9J82+27P
+457,The Hideout Cafe,4.1,815,$$,"227, Level-2, New Widened Road"
+458,Club House,4.1,252,$$,Beside Theme Omor Plaza Gorhanga
+459,Flavours Cafe & Restaurant,3.8,263,$$,Zero Point
+460,Amigos,3.8,159,$$,Upohar Movie Theater Rd
+461,Dream Cafe,3.6,422,$$,"Alokar Mor, Dorjibari Building(2nd Floor Rajshahi"
+462,Chili's Thai & Chinese Restaurant,4.0,597,$$,"Zero Point, Saheb Bazar Rd"
+463,Callisto,4.3,398,$$,Unnamed Road
+464,Aziz Canteen,4.2,806,$,9H7X+VQ3
+465,Delis,3.8,53,not specified,"2nd Floor, Alokar Mor, Station Road, Ranibazar Shaheb Bazar"
+466,Kurkure Fried Chicken,3.7,45,not specified,Opens at 4:30 PM
+467,Mritika restaurant,3.3,3,not specified,9JM2+949
+468,Twist & Taste,3.8,406,$$,"Jamal Super Market, 1st floor"
+469,Chili's Kabab & Food,4.0,362,$$,Saheb Bazar Rd
+470,Sultan's Territory,4.0,123,not specified,9J82+W6Q
+471,Nawab's Kitchen,3.8,170,$$,Sonadhighir More
+472,Nuxa,3.8,243,$$,"Sarkar Tower, Kumarpara Rajshahi"
+473,Saffron- A Fusion Cuisine Restaurant,3.6,53,$$,"medical, Auditorium Rd"
+474,Otithi Hotel & Restaurant,4.0,588,$$,9JFC+VVW
+475,Meet Up,4.1,95,not specified,"zero point, Saheb Bazar Rd"
+476,Midas Restaurant 3,3.9,436,$$,"166, Alokar More, New Market Road"
+477,Master Chef Bangla Restaurant,3.9,983,$$,"28, 22 Greater Rd"
+478,Kazi Farms Kitchen,4.7,7,not specified,9HGQ+M6M
+479,Yatai 屋台,4.3,97,not specified,"Sohidullah Tower 02, 4th Floor, Ranibazar Rajshahi"
+480,Mid Night Myist,0,0,$$,9J72+XFG
+481,deshicook(Sobjanta_Somipesu)best quality food travel health tips kids site blog restaurant in rajshahi bogra bangladesh,5.0,3,$$,9H8X+WMF
+482,Bismillah Kalai House,4.5,2,not specified,9H7V+J2H
+483,Tik tok food corner,3.2,9,$$,Theme omar plaza
+484,S.K FOOD WORLD,3.8,243,$$,"Ranibazar, Rajshahi City"
+485,Chef's Platter,4.4,27,$$,9J92+FVQ
+486,Code 3,4.1,312,not specified,Newmarket Road
+487,Kalai House,4.1,842,$,"Uposhohor New Market, A/199"
+488,Sukhi'r Rannaghar,4.1,341,$,9H8X+R72
+489,NORTH BURG,4.3,216,not specified,Reshompotti Mor
+490,Rahmania Hotel,4.0,519,$$,"R685, Gonokpara"
+491,Colino's,3.8,396,not specified,"Holding no 134, Sagorpara Bottola Ghoramara, Boalia"
+492,Tasty Fried Chicken,3.7,215,$$,Rajshahi - Dhaka Highway
+493,Rajmoni cafe & Restaurant,3.7,3,$$,Shaheb Bazar Rd
+494,Mahin Hotel & Restaurant,4.0,4,not specified,9JG5+8WF
+495,Jilapi store of Batar more,4.3,192,$,R685
+496,Benjarong,4.0,48,$$,"A.H.M. kamaruzzaman Stadium, Station Rd"
+497,Arabian Kitchen,3.9,493,$$,Not Provided
+498,মন্টুর কালাই রুটি,4.5,44,not specified,Baro Rastar moor
+499,The Delicious Food Mahal,0,0,not specified,9H7V+Q7C
+500,City Garden Chiness Restaurant,4.4,16,not specified,9HMQ+329
+501,Muskan Hotel And Restaurant,3.8,101,$,"Bisik Match Factory Moor, Sapura, Boalia"
+502,আহার বাংলা খাবার দোকান,4.0,5,not specified,9H8X+FX3
+503,food-aholic | Food Delivery Service in Rajshahi,5.0,15,not specified,Behind The Ghoramara Post Office Rajshahi
+504,The Divine Dining,5.0,1,$$,Near TTC Second gate Rajshahi
+505,Nanking Chinese Restaurant,4.1,"1,398",$$,"Moni Bazar, Post Code- 6000"
+506,Jhaid frist food,5.0,1,not specified,9J83+F26
+507,Cafe Raj Hotel & Restaurant,2.6,5,$,Laxmipur Bazar
+508,ইব্রাহিম হোটেল এন্ড রেস্টুরেন্ট,5.0,3,$$,9H8W+WHV
+509,Food Point,3.0,2,$$,"Zero Point, Saheb Bazar Rd"
+510,Howzate,3.4,5,not specified,theme omor plaza
+511,Mahmud Sumon resturant,5.0,2,not specified,Not Provided
+512,Hotel Cafe Raj Inn,3.7,13,not specified,Greater Rd
+513,Coffee Bar Multiplex Restaurant,3.8,281,not specified,"Borokuthi, Balur Ghat, Saheb Bazar"
+514,Mini Chinese,3.9,72,$,9HGQ+PF3
+515,Relish,3.4,5,not specified,Upohar Movie Theater Rd
+516,Rajshahi Food Network ( Roni Swarma ),4.7,9,$$,Rajshahi City Bypass
+517,"Tasty Time, Omar Plaza",4.4,17,$$,"Theme Omar Plaza, New Market"
+518,Golden chef fast food & chiness Restaurant,3.9,254,not specified,Hotel grand ar 1st floor Gonokpara
+519,"LABANGA Chinese & Fast Food Restaurant, Rajshahi (লবঙ্গ রেস্টুরেন্ট রাজশাহী)",4.2,82,$,Alupotti More
+520,Star Hotel & Restaurant,3.9,7,$$,"Laxmipur Girls School Market, Islami Bank College Hospital Oppsite Side Ator ali Market, Laxmipur Mor"
+521,Beldarpara Shik Burger,4.1,76,$$,"N 6, Beldara"
+522,Bindu Hotel And Restaurant,3.8,692,$,Station Rd
+523,Vai Vai Restaurant,3.3,4,not specified,9JF9+7XM
+524,স্পাইসি বিরিয়ানী এন্ড কাবাব,3.2,6,not specified,177 Natore Rd
+525,রাজশাহী ফুচকা,4.0,1,not specified,"Padma Garden, Dorgapara Rajshahi College Pathway"
+526,রহমানিয়া প্লাস রেস্টুরেন্ট,3.9,240,not specified,9J93+V57
+527,Rahman's Bar-B-Q,4.0,81,not specified,"Kumarpara, Saheb Bazar Rd"
+528,Golden Chef,3.9,27,$$,City Bypass Mode
+529,FoodShahi - Home Delivery service,5.0,20,$$,Beldarpara
+530,Memory Biriyani House,3.6,101,$$,"Abdul Kader Manjil, Saheb Bazar, Gonokpara"
+531,Family Corner,4.2,37,$,24/2 Cantonment Road
+532,Rajshahi Biriyani Ghar,3.6,9,$$,"New Market Road Road, Kadirgonj"
+533,Twist & Taste - Ghoshpara Mor Branch,4.6,8,$$,9H9R+GJ4
+534,Penguin,4.3,7,not specified,"Beside mohila complex, Terokhadia Stadium Rajshahi"
+535,Kutum Bari Bangla Restaurant,3.0,1,not specified,"Ground Floor, Shiroil Godhuli Market, Beside Rajshahi Railway Station Bir Sreshtho Sheheed Captain Mohiuddin Jahangir Sarani Station Road Siroil Bus Terminal, Dhaka Bus Terminal"
+536,Daruchini Chinese Restaurant,3.6,196,$$,Padma Residential Area
+537,হাজী সুইটস অ্যান্ড রেস্টুরেন্ট,5.0,1,not specified,Ct Station Rd
+538,Arrow Spoon,3.7,164,$,9JF2+5RJ
+539,Amigos,3.8,210,not specified,"206, Ranibazar, Tiles Patty Ghoramara"
+540,Al Rahmania Hotel & Restaurant,4.8,4,$$,"Station Road, Shiroil Godhuli Market, Beside Bir Sreshtho Sheheed Captain Mohiuddin Jahangir Smarani, Rashahi Bus Terminal, Boalia"
+541,Master chef pastry and fast food,4.2,21,$$,"7th floor,Them Omar Plaza,Newmarket"
+542,Ruchita Khabar Hotel,3.5,22,$,"বীরশ্রেষ্ঠ শহীদ ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর স্মরণী, Greater Rd"
+543,Taj Hotel And Restaurant,3.6,112,$,"Medical College Road, Ghoshpara Mor, Hatemkha"
+544,Food King Hotel & Restaurant,0,0,$$,9HHW+5V5
+545,Deshi Dhaba,4.3,6,$$,Chamber Bhaban
+546,Tehari Ghor,3.8,92,not specified,"East Side of Gorhanga Jame Masjid, New Market Road Gorhanga"
+547,City Garden Fast Food & Chinese,4.1,7,not specified,9JC3+W2X
+548,RIZIK Fish BBQ Restaurant,3.9,61,not specified,9JGF+FFG
+549,MEHEDI RESTAURANT,3.8,77,not specified,Bhodra Rd
+550,Nimomtron Hotel and Restaurant,3.0,8,not specified,"Bir Sreshtho Shaheed Captain Mohiuddin Jahangir Smarani, Bondhogate, Bissimla"
+551,ফ্রেন্ডস ফুডস কর্নার,0,0,not specified,Unnamed Road
+552,Padma Kebab & Biryani,0,0,$$,"Haragram New Market, N6"
+553,"ভরসা চটপটি, ফুচকা ,নুডুলস্",0,0,$$,9JJ4+54G
+554,Obosor,3.8,147,$,Bir Sreshtho Shaheed Captain Mohiuddin Jahangir Smarani
+555,ROUTE 6 DE LOUNGE,3.6,270,$$,"Kajla Gate, Rajshahi - Dhaka Hwy"
+556,Byanjon,5.0,3,$$,local Rd
+557,Fs Home Kitchen,5.0,2,$$,9H9R+59X
+558,Seyamoon Restaurant,3.5,73,not specified,"Shop No-09, 1st Floor, Kazla Gate Market University Of Rajshahi, 6204 Rajshahi - Dhaka Hwy"
+559,Rainbow & tea time bd,5.0,1,not specified,Lalan Shah Park Road
+560,Friends Hut Chinese and Fastfood,3.8,5,not specified,Simante Obokash
+561,Moments,5.0,2,not specified,9H8W+CW7
+562,Elite Bangla Restura,5.0,1,not specified,Shaheb Bazar Rd
+563,গোলাপ মামার হোটেল,5.0,3,not specified,Unnamed Road
+564,"Savage Point, (the premium taste)",4.0,2,$$,Beldarpara
+565,Ahnaf Hridoy Palace,4.1,8,$$,Rajshahi City Bypass
+566,Cookie Jar Convention Center,3.9,317,$,Opens at 11:00 AM
+567,Tuhin's Food Hotel,0,0,$$,Unnamed Road
+568,Ma Nurjahan hotel and restaurant,5.0,1,$$,Unnamed Road
+569,Shovo Coffee House & Fast Food,0,0,$$,"Shiroil Bus Stand, Shiroil, Near East Side of Purtan Counter"
+570,Double Digit,3.8,8,not specified,"1st Floor, Mazeda Complex, Talaimari Circle"
+571,Heshel - Bangla Restaurant (Students Friendly),3.7,85,$,"Raninagar, Munnafer Mor, Baolia"
+572,Movenpick Food Zone,0,0,not specified,"09.Association Bhabon, Alokar more"
+573,Balcony,4.2,22,not specified,"1st Floor, Mobarak Tower, Ranibazar, Ghoramara"
+574,Sadia Mix Food Restaurant & Cafe,3.7,87,not specified,Not Provided
+575,Vangchur Restaurant,3.7,106,$,Unnamed Rd
+576,MOM'S Pastry Zone,4.8,4,$$,Rajshahi - Naogaon Hwy
+577,Shamim Hotel and Restaurant,3.3,32,$,9HHJ+744
+578,মা এর দোয়া চটপটি (B L U M E),4.0,28,$,"Seroil, Beldarpara more"
+579,Shuvo Hotel and Restaurants,3.0,2,$$,Traffic Mor
+580,RFC,3.4,13,$$,9J82+594
+581,Testy Treat Food Corner & Cafe,3.5,2,$$,"House no:423,Ground Floor, Monnafer Mor Bir Sreshtho Shaheed Captain Mohiuddin Jahangir Smarani"
+582,Star 14,0,0,not specified,Mohisbathan uttor para jame mosjid rajshahi. Hold-624
+583,ilius treder,0,0,not specified,Not Provided
+584,শহিদুল,0,0,not specified,9HHX+5H3
+585,Hanif Khan Teheri Ghor,2.9,21,not specified,"Shop No- 46, Pouro Biponi Market Adjacent Sonadighi Mosque, Senadighi Mor, কাপড় পট্টির গলি"
+586,Golpo Kotha Food Corner,4.1,346,$,9JC3+Q7P
+587,Unan - Goriber Addakhana,3.5,35,not specified,Unnamed Road
+588,Riyad Hotel and Restaurant,3.6,178,$,"Rajshahi - Dhaka Highway, Binodpur Bazar, Motihar"
+589,Berlin Fastfood & Restaurant,3.5,27,not specified,"Nator Road, Kajla Ghat, Motihar"
+590,Hira haripur,0,0,not specified,Rajshahi Bypass
+591,Royals Billiard Club,4.0,304,$$,Not Provided
+592,Zorakali Sweet Store,4.0,37,not specified,9H8X+VM8
+593,Green castle,4.3,7,not specified,Bir Sreshtho Shaheed Captain Mohiuddin Jahangir Smarani
+594,MOM'S Pastry Zone,4.8,4,$$,Rajshahi - Naogaon Hwy
+595,Shamim Hotel and Restaurant,3.3,32,$,9HHJ+744
+596,Mishti Mahal,4.0,17,$,"Ruet Gate, Oppo. B.R.T.C Counter, Rajshahi - Dhaka Hwy"
+597,Islamia Pochur Hotel & Restaurant,4.0,"1,967",$,"Chakrampur, Dhaka - Natore Hwy"
+598,Ekota Hotel,4.3,3,$$,9M8G+472
+599,BOX Delivery,4.2,13,$,9J93+W5W
+600,Foodee Express,3.8,515,$$,"Bells Park, Band Rd"
+601,Hot Plate Restaurant,3.9,860,$$,Police Line Rd
+602,Zafran Restaurant Barishal,4.1,379,$$,Opens at 12:00 PM
+603,Cafe Star,3.9,"1,063",$,Opens at 11:00 AM
+604,Garden Inn Restaurant,3.9,437,not specified,P929+MWW
+605,Lake View Restaurant,3.9,783,$$,"Choumatha Lake, C and B Rd"
+606,Barishal King Restaurant,4.1,105,not specified,835 C and B Rd
+607,Handi Korai,3.8,432,$$,Sadar Rd
+608,Western Food Restaurant,4.0,22,not specified,"C & B Road Hatemali, College choumatha"
+609,Shawarma House Restaurant,3.7,435,not specified,M.A Jolil Sarok.Korim kuti
+610,Honest Restaurant,4.4,88,not specified,Bogra Rd
+611,Silver Spoon Chinese Restaurant,3.7,211,not specified,"N Hossain Complex, 1st Floor, 416 Police Line Rd"
+612,Hotel Wazedia,4.6,10,$$,K.B. Hemayet Uddin Rd
+613,South King Chinese Restaurant,3.8,304,$$,Band Rd
+614,AlBaik Restaurant,3.4,5,$$,Hotel Rodela
+615,খিচুড়ি এক্সপ্রেস,5.0,4,$,Kali Bari Rd
+616,Nanna biriyani,3.4,5,not specified,P93C+M48
+617,Appetizer Cafe & Restaurant,3.9,53,$$,Bogra Rd
+618,Kutum Bari Restaurant,3.3,49,not specified,Police Line Rd
+619,Eastern Restaurant & Hotel,3.8,37,$,"Bhanga-Barisal Highway, South Aalekanda, Amtala"
+620,Royal Restaurant,3.8,311,not specified,Sadar Rd
+621,Appayan Hotel And Restaurant,3.6,40,not specified,Folpotti Rd
+622,FoodZ,4.0,112,not specified,College Rd
+623,Matir Unon (Home made food),5.0,1,not specified,Barishal
+624,Modina Restaurant,3.4,9,$$,Barisal - Pirojpur Hwy
+625,Signature Dish Barishal,0,0,$$,Adjacent to Asalat Khan Mosque 8207
+626,Flavours Restaurant,2.2,6,$$,Sadar Rd
+627,"Raj Darbar Restaurant & Convention Center, Barishal",4.5,2,$,M8GW+XM3
+628,Haji Biriyani Lonch Ghat Barishal,4.2,5,not specified,Launch ghat
+629,ভাই ভাই হোটেল এন্ড রেস্টুরেন্ট,0,0,$$,Village : joysree সাজু ফিলিং স্টেশন এর বিপরীত পাশে । Barisal
+630,Big Chef,3.9,151,$$,Major M A Jalil Rd
+631,খাবার বাড়ি / Khabar Bari Restaurant,3.9,272,not specified,M8HW+GPJ
+632,HumaHum Restaurant,4.3,31,not specified,Bus Stand
+633,Orpita Store & Fast-food Chinese,3.0,1,not specified,"C&B Bridge-2, Rd, Dhaka - Barishal Hwy"
+634,Arabella Barishal,4.3,23,not specified,"121, Nobogram Road, Mitali Bhaban"
+635,Late. Yummy King,3.8,96,not specified,Bangla Bazar Rd
+636,Hotel gharoa and restora,3.9,305,$$,Chowk Bazar Rd
+637,Food Glory Restaurant,4.3,6,$$,Bogra Rd
+638,Khana Pina - Premium Casual Restaurant,4.1,21,$$,"Teletalk Customer Care, Uttar Alekanda, Bogra Rd"
+639,Akash Hotel And Restaurant,4.0,109,$,Katpotti Rd
+640,নাজেমস রেঁস্তোরা,4.2,89,not specified,Bogra Rd
+641,Food Club Barisal,3.8,122,$$,Bogra Rd
+642,Mr. FOOD,4.0,80,not specified,Bogra Rd
+643,Allah'r Dan Bombai Shingara Point,0,0,not specified,Bhanga-Barisal Hwy
+644,Ma Restaurant-মা রেস্টুরেন্ট,4.0,23,not specified,Band Rd
+645,Balaka Puri & Chop,4.3,211,$,বাজার রোড
+646,দারুচিনি,4.5,2,not specified,24 Bangla Bazar Rd
+647,FRYPAN,3.8,81,not specified,"0163, Sham Babu Lane, G.C. Das Road, 8200 Major M A Jalil Rd"
+648,Haat food court,3.6,5,$$,Major M A Jalil Rd
+649,Pan Pizza Barisal,5.0,4,$$,Not Provided
+650,BurgerBurg,4.0,3,$$,Major M A Jalil Rd
+651,আউয়াল ভাইর দোকান Hotel Abudhabi International,4.0,1,$,Fokir Bari Rd
+652,রাজ বিলাস বিরিয়ানি হাউজ,3.0,3,not specified,Not Provided
+653,sub town,3.4,5,$$,"862, road"
+654,kulsm food corner,5.0,1,not specified,P923+M3M
+655,Monu Fuchka house,0,0,not specified,30 Godown
+656,Ananda Hotel & Resturent,4.0,5,not specified,M9G3+VWJ
+657,শফিক ভাইয়ের স্পেশাল ফাস্টফুড,5.0,1,not specified,P923+C6R
+658,আদিব হোটেল এন্ড বিরিয়ানি হাউজ,4.1,25,not specified,Fokir Bari Rd
+659,Royal Stage Restaurant,3.8,147,not specified,Bogra Rd
+660,Islamia Hotel & Restaurant.,3.7,12,$$,Port Rd
+661,Street Flavor,0,0,$$,Bells Park Trail
+662,Medical Staff Canteen,3.7,15,$$,Band Rd
+663,Bells Diner,3.8,70,$,Band Rd
+664,Adhora Coffee House,0,0,not specified,Not Provided
+665,nusratjahan keya,0,0,$$,P923+8F3
+666,Shop,0,0,not specified,C and B Rd
+667,Chattogram Muslim Hotel & Restaurant,3.7,41,$$,Band Rd
+668,Tiki Join's Caffe,4.7,7,not specified,"Godown, Shingra Point, 30"
+669,মুন্সি রেস্তোরাঁ এবং বিরিয়ানি হাউজ,0,0,not specified,Battala Bazar
+670,Hungry Time-2,3.2,9,not specified,Unnamed Road
+671,Bhabir Hotel,2.7,6,not specified,Baptist Mission Rd
+672,Golpata Rasana Bilash (Bar-B-Q & Coffee Shop),3.7,184,$$,"C & B Rd, Bhanga-Barisal Hwy"
+673,Sultani Dine,3.8,99,$$,BM College Rd
+674,The Riverview Chinese Restaurant,3.7,11,$$,"DC Ghat, Band Rd"
+675,Chourpngi Hotel.,0,0,$,Folpotti Rd
+676,New Ghorowa Restaurant,4.3,4,not specified,444 K.B. Hemayet Uddin Rd
+677,লোকমান সিঙ্গারা পয়েন্ট,0,0,$$,Unnamed Road
+678,আল্লার দান হোটেল এন্ড রেস্টুরেন্টে,5.0,2,not specified,Major M A Jalil Rd
+679,স্বপ্ন বিলাস বিরানী ঘর,5.0,1,not specified,Not Provided
+680,Hungry Time Restaurant,3.4,11,not specified,Infront of Barishal University
+681,Burger House,3.7,185,not specified,BM College Rd
+682,জলিল মিয়ার ভাতের হোটেল,3.3,9,not specified,Fokir Bari Rd
+683,খাবার হোটেল,0,0,not specified,3 Katpotti Rd
+684,টিকি জয়েন্স ক্যাফে,4.0,3,not specified,30 Godown
+685,স্বপ্ন বিলাস বিরিয়ানি ঘর,2.0,1,not specified,Sadar Rd
+686,Fish fry shop,0,0,not specified,30 godaun
+687,ইমন হোটেল বরিশাল বাজার রোড,5.0,1,not specified,বাজার রোড
+688,Nil Akash Restaurant,3.7,32,not specified,P87X+MQ4
+689,Gournadi Muslim Reataurant,0,0,not specified,Ishwar Basu Rd
+690,El Foodee,0,0,$$,572 Gora Chand Das Rd
+691,Haji Biriyani,0,0,$$,P923+F4M
+692,MR. TASTY FAST FOOD & PIZZA HOUSE,3.4,27,$$,Bogra Rd
+693,Panchali grocery stores,4.0,1,$,Sadar Rd
+694,Chicken express food cart,3.0,1,not specified,P923+G47
+695,bismillah stores,0,0,$$,Bogra Rd
+696,Mehedigonj Dodhi Ghor,4.3,3,$$,85 Fazlul Haque Ave
+697,Monihar Hotel and Restaurant,5.0,1,$$,P978+23
+698,বরিশাল গেট রেস্টুরেন্ট,3.5,44,$$,"210, arafat house, Kali Bari Rd"
+699,Ujan Vati,3.4,124,$,Bogra Rd
+700,New Alauddin sweets & Restaurant.,0,0,not specified,Hospital Rd
+701,মেসার্স তাহের স্টোর,2.0,2,$$,Port Rd
+702,Youtube,4.5,2,not specified,Barisal of 2 word Kawina.2 word Barisal of kawina
+703,Spice & More,0,0,not specified,Bogra Rd
+704,CHAD MIA AR HOTEL.,5.0,1,not specified,"Shadhur Bat Tola, Barisal"
+705,Te Amo,5.0,3,not specified,62 Katpotti Rd
+706,Hotel Ghorua and Restora,4.3,3,not specified,Folpotti Rd
+707,কাজী ক্যাফে,3.0,1,not specified,C and B Rd
+708,আযম ভাইয়ের ভাতের হোটেল,5.0,1,$$,M9Q4+X3C
+709,হারুন ভাইয়ের চটপটি ও ফুচকার দোকান,4.0,1,$$,M9Q4+V8P
+710,Bhojon Bilash Hotel,3.7,99,$$,M8HW+HWR
+711,Hotel Nirob,3.0,2,$,P93F+986
+712,Burger Shop,0,0,not specified,Amanatganj Rd
+713,Food hackers,4.0,2,$$,"modhu miar pool, BM College Rd"
+714,Appayan Restaurant,0,0,not specified,BM College Rd
+715,Safin Kitchen & Cetering Service,5.0,3,not specified,"Bazar, Vatikhana Rd"
+716,বাদল ভাইয়ের রুটির দোকান,0,0,not specified,121 Nobogram Rd
+717,Dream kitchen Barisal,5.0,2,not specified,"107,Notullabad, Shahid Zia Sharak"
+718,Maria Business,0,0,not specified,Nathullahbas bus terminal
+719,Rose Inn Hotel & Restaurant,4.1,77,not specified,Not Provided
+720,ক্যাফে আম্মাজান রেস্তোরা,0,0,$$,Hospital Rd
+721,রুচিতা হোটেল,3.3,3,$$,Taltali-Kagasura Road
+722,Haji Biriyani House,3.1,22,$$,Folpotti Rd
+723,Bangali Hotel And Restura,3.6,187,$,"C and B Rd, Near Natullahbad Bus Stand"
+724,শাহীন হোটেল,3.4,20,$,P953+VQX
+725,Singara Point,3.0,1,$$,Polytechnic Road
+726,Kayed Battery,5.0,1,not specified,Dhaka - Barisal Highway
+727,Anaaya's Dining & Chinese,2.5,21,not specified,Police Line Rd
+728,Maa store,0,0,not specified,P8GQ+CRX
+729,Bhojon bilash restaurant,4.1,26,not specified,"North Rhmatpur Airport, Bhanga-Barisal Hwy"
+730,আল্লার দান হোটেলএন্ড রেস্টুরেন্ট,5.0,1,not specified,"মুনসুর কোয়াটার, নবগ্রাম রোড"
+731,Barishal Airport caffee house,0,0,not specified,Not Provided
+732,রাধুনী হোটেল,4.0,7,$$,"Thana Road, Barisal - Pirojpur Hwy"
+733,BARISHAL bless parke,3.7,3,$$,Bells Park Trail
+734,Dr. Sobhan Complex,3.9,119,$$,Sadar Road
+735,Tong Rooftop Restaurant,4.0,6,$,Dhaka - Patuakhali Hwy
+736,BARISHAL MUSLIM HOTEL,4.4,5,$,195 Siddique Bazar Rd
+737,St. Peter Market,4.0,54,$$,Sadar Rd
+738,Amtola Park,4.3,"1,003",not specified,Shadhinota Park Trail
+739,HOTEL ASTON INTERNATIONAL. Bangladedh,4.1,25,not specified,"Police Line Road,Barisal.Bangladesh Barisal City"
+740,নজরুল টি স্টোর,5.0,2,not specified,বরিশাল আমতাল মোড়।
+741,Adam's Eden Restaurant & Resort,3.7,97,not specified,M9QG+MVH
+742,Barishal Bar Association,4.1,38,not specified,Fazlul Haque Ave
+743,Hotel Arena,3.8,"1,173",not specified,Sadar Road
+744,The Arrosto,4.3,"1,206",$$,"1st Floor, Besides the king of Chittagong, 15 O.R Nizam Road, Panchlaish Minar Building"
+745,Ram Shyam Restaurant - Best Bengali Restaurant in Santiniketan | Top Restaurant in Santiniketan,4.2,213,$$,"Sonajhuri(Khoai), Santiniketan"
+746,Barisal Hotel and Restaurant,3.2,20,$$,"21, 1 Sukrabad Rd"
+747,Vibez Cafe N Restaurant,4.0,384,$$,83 S Central Rd
+748,Saffron,4.0,79,not specified,"Opposite of Pioneer girl's College, 1 S Central Rd"
+749,ROVERS CAFE,4.3,951,$$,Upper Jessore Rd
+750,Mughal's Dine,3.9,702,$$,"69,Cemetery Road, Dak Bangla"
+751,ফায়ারফ্লাই রেস্টুরেন্ট,4.1,606,$$,QGMR+V27
+752,New Azmiri Kacchi Kitchen,4.0,460,not specified,"1sher e, bangla road"
+753,Deshi Kitchen,4.1,"1,185",$$,"12, কেডিএ এভিনিউ, তমালতলা - শৈলকুপা সড়ক"
+754,Royal Kitchen,4.1,18,not specified,"43, Puraton Jessore Road Custom House Mor, Khalishpur"
+755,Kacchi Ghor,4.0,"1,174",$$,KDA Ave
+756,Foodsta,4.0,153,not specified,"M A bari street, Choto Boyra Bazar Rd"
+757,Bistro C,4.2,982,$$,RH57+X2X
+758,Grill House,3.8,301,$$,"KDA, New Market, Khulna - Jessore - Dhaka Hwy"
+759,Spize Cafe & Restaurant,4.0,126,not specified,Circuit House
+760,KABABZ,4.4,11,not specified,"Stall No. 05, KDA Extension Building KDA Avenue, Shibbari More Khulna, Bangladesh"
+761,লেট নাইট রেষ্টুরেন্ট,3.9,109,not specified,RG7Q+C9Q
+762,We Hungry,3.8,194,not specified,"7/3 Islampur Road, KDA Avenue"
+763,CityLight Cafe & Restaurant,4.1,909,not specified,"G.M. Baksh Tower, 22 Sir Iqbal Rd"
+764,S K Chinese Bangla Avijat Restora,5.0,2,not specified,"1/1, Rupsha Approach Road, Traffic More"
+765,"মাগুরা রেস্ট্রুরেন্ট,খুলনা",3.6,31,$$,"15/1, coronation school Ahosan Ahmed Road, Opp. Coronation School Khulna 9100 BD, Ahsan Ahmed Rd"
+766,Shawarma House Khulna,3.9,894,$$$,Food Studio Food Court
+767,Bumble Bee Café & Restaurant,4.1,608,$$,"Kabir Complex, 01 T.B. Boundary Rd"
+768,Pizzaology,4.0,635,$$,118 Upper Jessore Rd
+769,3 Food Khulna Branch,4.2,131,$$,Not Provided
+770,Pasta Express khulna,4.1,149,not specified,"রয়্যালের মোড়, -ক্যাসেল সালাম এর অপজিট এ ৫৫, খানজাহান আলী রোড"
+771,চাইনিজ গার্ডেন,4.0,34,not specified,70 Khan Jahan Ali Rd
+772,Chinese Palace,4.0,"1,033",$,45 Ahsan Ahmed Rd
+773,"Mejban bari, Khulna",4.0,144,not specified,Gollamari - Sonadanga Bypass Rd
+774,Dhaba @ Road Side,4.1,656,not specified,B6 Majid Sarani
+775,7 Miles Restro & Caffe.,4.1,58,not specified,"Khaja Yousuf Ali chisti Road, Beside Hotel City Inn, 102, 1 Ka Majid Sarani"
+776,"The Lake View Restaurant, Khulna",4.0,102,not specified,"Rail Road Crossing Bridge, Khulna - Jessore - Dhaka Hwy"
+777,Khana Khazana,0,0,$$,12 Cemetry Rd
+778,Roberts Cafe khulna,5.0,1,$$$,New Market Rd
+779,Rooster King,4.0,187,$$,48 Ahsan Ahmed Rd
+780,জাফলং রেস্টুরেন্ট Jaflong Restaurant,3.8,6,$$,৩৩ নং সেন্ট্রাল ব্লক রোড নং ১৫০ হাউজিং এস্টেট খালিশপুর Khulna
+781,Gesco Kabab,4.0,801,$$,"Sher-E-Bangla Road, Power House More"
+782,রেড চিল্লি,5.0,3,not specified,"Near Gazi Medical College, A/17 Majid Sarani"
+783,Kutumbari Restaurant,5.0,3,not specified,QGXH+879
+784,Zaytun Resturant and Cafe,3.6,9,not specified,Majid Sarani
+785,Ruchi Restora,0,0,not specified,"9, PC Roy Road,West Site of Hadis Park"
+786,Kamrul's Special Gravy Beef & Mutton,4.3,43,not specified,Khulna - Satkhira Rd
+787,EFC,3.2,47,not specified,9 S Central Rd
+788,Dhanshiri hotel and restaurant,4.0,4,not specified,18 Helatala Rd
+789,রাজ কচুরি,3.8,415,$$,"Jessore Khulna Road, Opposite Of Safe & Safe"
+790,Cloud9,3.0,1,$$$,Khulna-Jessore-Dhaka Highway
+791,Food Factory,0,0,$$,12 Yusuf Row
+792,Faruk kabab,4.1,24,$$,RH95+6PC
+793,Jing ling cafe and restaurant khulna,2.8,4,$$,RGWR+744
+794,Al-Arafa Restaurant,3.8,416,$$,133 Majid Sarani
+795,Faruk Biriyani Ghar,4.0,37,not specified,"338,First floor, Hayder Complex, Near Sandhya Bazar, Sher-E-Bangla Road, Moylapota More"
+796,Shahed Ali Restaurant,3.0,4,not specified,K.D. Ghos Rd
+797,Dhaka kitchen,5.0,2,not specified,Upper Jessore Rd
+798,Allahar Dan hotel and restaurant,5.0,1,not specified,3 Sher-E-Bangla Rd
+799,ফারুক শাহী চাপ,4.5,10,not specified,Khulna City Bypass
+800,O' Khulna - Parkside Restaurant,5.0,1,not specified,Khulna - Satkhira Rd
+801,Hot & Fast,2.8,4,$$,"Holding No, Shop No. 47, Ferdous Plaza, 42 Majid Sarani"
+802,আফগানি রেষ্টুরেন্ট,2.0,1,$$$,1-11 Railway Hospital Rd
+803,Food Craft,0,0,$$,9/1 Kakolibag 2nd Ln
+804,Fuska Hut,4.1,42,$$,18 Shamsur Rahman Rd
+805,Khulna best Shantipuri Restaurant,5.0,1,$$,RHF2+G54
+806,New Kaifeng Chinese Restaurant,4.0,764,$$,"132, 133 Upper Jessore Rd"
+807,Food Room,0,0,not specified,"178, Khan Court Building, Shib Bari More Cir"
+808,জবেদ হোটেল,4.4,16,not specified,16 N7
+809,Sohan Restaurant,0,0,not specified,"Housing Bazar, Khalishpur"
+810,Raw canvas cafe & restro,4.7,3,not specified,"Opposite Side of Safe N Safe Khulna Upper jessore road, hazi shariatullah market"
+811,4Cheez,4.0,239,$$,Opens at 12:00 PM
+812,"Pasta point,Khulna",5.0,2,not specified,Boyra Cross Rd
+813,Shanon Cafe and BBQ,3.8,19,$$,RH2J+PC9
+814,Al-Amin Chotpoti,4.7,11,$$$,"East Baniakhamer, 9th Gali B.K Main road, Khulna"
+815,Aziztawsif Best Restaurent in Khulna,0,0,$$,RH87+3XX
+816,River Side Cafe & Restaurant,3.5,13,$$,Rupsha River
+817,Chinese Garden,4.0,36,$$,Khulna City
+818,Ruhin Restaurant,5.0,2,$$,QHVH+7R4
+819,Ammes Kitchen,0,0,not specified,118 Upper Jessore Rd
+820,অলকা রেস্তোঁরা,3.8,207,not specified,"Dakbangla Mor, Upper Jessore Rd"
+821,লতিফ চটপটি,5.0,1,not specified,"92, North Side Of Chaitali Math, BIDC Rd"
+822,Mughol dorbar-khulna,5.0,2,not specified,Not Provided
+823,Kamrul Hotel,4.1,"2,121",$$,QGXG+7X7
+824,New Modhumoti Hotel & Restaurant,4.5,11,not specified,"309, Khan Jahan Ali Road, Khan Jahan Ali Rd"
+825,food point,3.7,25,$$,1 Khan Jahan Ali Rd
+826,শাহী চটপটি,5.0,2,$$$,BIDC Rd
+827,Rajmahal Food Court,4.1,"1,824",$$,"69, 70 M A Bari St"
+828,SPICY INN,4.6,5,$$,"Cloud 9 Food Court, Gollamari - Sonadanga Bypass Rd"
+829,চাইনিজ হ্যাভেন,3.9,13,$$,Dhaka-Jessore-Khulna Rd
+830,Mega Biriyani House restaurant,4.2,854,$$,Rd No. 18
+831,Wimpy's,3.8,12,not specified,Opens at 11:00 AM
+832,Chinese Choice,4.0,10,not specified,18 Shamsur Rahman Rd
+833,Hanif Mama BBQ & Sheek Kebab,0,0,not specified,Moylapota By Pass Rd
+834,জহির হোটেল এন্ড রেস্টুরেন্ট,3.4,8,not specified,65 Shamsur Rahman Rd
+835,KFC,4.1,449,$$,"ES PLAZA 22, FARAJI PARA ROAD MOILAPOTA MORE"
+836,হুং'স,3.4,39,not specified,BIDC Rd
+837,Kashmiri Biryani and kabab,3.8,564,$$,Nirala Residential Area
+838,Satyanarayan Temple & Niramis Restaurant,4.6,8,$$$,Thakur Bari Ln
+839,Mezban Restaurant,4.3,10,$$,"Medical College Haspital Gate, Boyra"
+840,Princess cake Khulna,4.4,177,$$,9 no. jaill sarani on the other side of Boyra mohila college
+841,কিছুক্ষণ হোটেল অ্যান্ড রেস্তোরাঁ,4.3,3,$$,Not Provided
+842,Sumon's Chicken,0,0,$$,"29, 9200 KDA Approach Rd"
+843,Radhuni Hotel,3.6,103,$$,"207, First Floor, Hayder Complex, Sher-E-Bangla Road, Moylapota More"
+844,SAFE 'N' SAVE Cafeteria,4.0,103,not specified,VG8G+WPV
+845,Khulna Kabab Ghar,0,0,not specified,BIDC Rd
+846,HK Food Khulna,5.0,2,not specified,"12 Hazi Meher, Hatem Ali Rd"
+847,Barista Cafe & restaurant,4.2,61,not specified,Not Provided
+848,Miraj Shahi Haleem,4.3,7,not specified,Moylapota By Pass Rd
+849,Sultan Hotel,4.8,5,$$,Not Provided
+850,Khulna Deshi Biriyani,3.0,1,$$$,RGFV+F99
+851,Al- Jamil fish kabab,3.0,2,$$,Khulna City Bypass
+852,Khulna Home Chef's,5.0,2,$$,RGVQ+56X
+853,Sohag Hotel সোহাগ হোটেল,0,0,$$,"Notun Rasta, Pabla Khulna"
+854,Shakil Hotel and Restaurant,3.8,4,$$,Khaja Chisti Yusuf Ali Ln
+855,ভাই ভাই চটপটি ফুচকা হাউজ,0,0,not specified,"Fulbari Gate Bus Station, Khulna - Jessore - Dhaka Hwy"
+856,Kutum Bari Restaura,3.5,20,$,"Jalil Tower, 2nd Floor, Front Of Jolil Tower, Picture Palacer Moor Upper Jessore Road Khulna 9100 BD, Upper Jessore Rd"
+857,Joe Bean Haus,3.7,6,not specified,8 Khan Jahan Ali Rd
+858,Hotel Kasturi,3.8,290,$$,Cemetery Rd
+859,Dhaba 2 Khulna.,3.6,7,not specified,b-6 mojid saroni
+860,Chillout Food Court,4.1,"1,286",not specified,M A Bari St
+861,fish,4.0,40,$$,Opens at 11:00 AM
+862,রফিক মামার শিক কাবাব ও চিকেন বারবি কিউ,5.0,1,$$$,RHF2+JP4
+863,Friends food journey 2,0,0,$$,Gobor Chaka Rd
+864,অনলাইন গেজেট শপ,4.0,6,$$,Not Provided
+865,D Café & BBQ Restaurant,4.5,2,$$,22 Sir Iqbal Rd
+866,Rupkatha Restaurant,3.9,112,$$,"rood,zero point, Khulna - Satkhira Rd"
+867,ফাসখুড,0,0,not specified,"Fulbari Gate Bus Stand, Khulna - Jessore - Dhaka Hwy"
+868,khulna,0,0,not specified,VG78+9MQ
+869,রিপন হোটেল এন্ড রেষ্টুরেন্ট(RIPON HOTEL AND RESTAURANT)),0,0,not specified,RGP9+JGW
+870,Shanon River View Cafe,3.8,38,not specified,Rupsha Ferry Ghat
+871,Cafe Friends & Restaurant,2.6,7,not specified,Opposite Safe And Safe
+872,Tiger Garden Int. Hotel,4.2,"2,812",not specified,"Shib Bari More Circle, 01 KDA Ave"
+873,Rasmi Mini Chinese Restaurant,5.0,4,$$,QHPG+9WG
+874,Adi Mollar Hotel,3.6,16,$$$,RGHX+WRC
+875,"Shamim Hotel, Daulatpur",3.5,283,$,Khulna - Jessore - Dhaka Hwy
+876,দিলু ভাইয়ের পুড়ির হোটেল,5.0,1,$$,7 Shipyard Rd
+877,Pizza Bazar,3.5,108,$$,"Khan Jahan Ali Rd, P. T. I More"
+878,Bismillah store & fastfood,3.3,3,$$,"Road no : 132, Plot no: 04, prosova mor, Khulna. khalispur"
+879,Biriyani House,5.0,4,$$,RH78+JMM
+880,ওয়েস্টার্ন ইন ইন্টারন্যাশনাল লিঃ,4.0,762,$$$,Not Provided
+881,Food Therapy,3.6,145,$,324 Sher-E-Bangla Rd
+882,Nilar Ranna Ghor,5.0,2,$$,Unnamed Road
+883,Freshies- From Sabrina's Kitchen,0,0,$$,"House 628, Road 9, Mujgunni R/A"
+884,Jahatap Hotel,1.3,3,$$,Khulna - Satkhira Rd
+885,Jabed Hossain,0,0,not specified,RHC3+JJ9
+886,Yummy Restaurant and Food Court,3.6,12,not specified,Rupsha Bridge Toll Plaza
+887,Food Zone,4.3,4,not specified,"Zila Porishod Market, 4 Old Jessore Rd"
+888,Hotel Royal International,4.1,"1,766",not specified,Not Provided
+889,Adi Momin Hotel and Restaurant,3.3,51,not specified,"Jessore Road, Daulatpu, Khulna"
+890,Lal Mia Hotel,4.8,5,not specified,Jessore Khulna Road
+891,Hotel Glory,3.6,7,$$,"3rd & 4th Floor, 78, Esha Chamber Market Khan-E-Sabur Road"
+892,The Grand Placid,4.0,287,$$$,4-5 Sher-E-Bangla Rd
+893,DHANSIRI HOTEL & RESTAURANT,4.0,372,$$,Bagerhat - Khulna Rd
+894,Arpita Fashion,2.5,2,$$,"17, KDA, New Market Rd"
+895,Hotel Sunday International,3.3,36,$$,151 Upper Jessore Rd
+896,Khulna Convention Center,3.9,192,$$,"RG7Q+C9Q, Sonadanga Bypass Rd"
+897,Khulna University Of Engineering & Technology,4.7,"1,285",not specified,WG22+6WH
+898,Cafe Mariot,4.2,"1,523",$$,"beside Honda Showroom, 14 Rail Rd"
+899,New Fops Tailors,4.4,7,not specified,"79/1, 2, 3, 2nd Floor, Ajmal Plaza, Upper Jessore Road Khulna 9100 BD, Upper Jessore Rd"
+900,লেক ভিউ ক্যাফে এন্ড রেস্টুরেন্ট,4.2,"1,698",$$,P356+JC6
+901,Khulna University,4.6,"1,909",not specified,Sher-E-Bangla Rd
+902,ভোজন বিলাস,5.0,1,not specified,RGVJ+QMR
