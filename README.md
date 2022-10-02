@@ -1,7 +1,7 @@
 ## _Google Map Scrapping Without API (Using Selenium Web Driver, beautifulsoup and Python Scripting)_
 
 ![N|Solid](https://i.ibb.co/FzfzLq4/scrape-google-maps-with-python-and-selenium-removebg-preview.png)
-What We'll Need  for making The Scrapper
+What We'll Need for making The Scrapper
 - Python.
 - Chrome Driver 
 - Chrome browser.
